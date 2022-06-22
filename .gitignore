@@ -1,2 +1,4 @@
 client-secret.sh
 venv/
+__pycache__/
+sqlite_db
